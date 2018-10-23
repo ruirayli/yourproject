@@ -1,0 +1,2484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="457" it="0" lt="455" ct="37" ts="1511861341658" s="true" lb="我创建的文档" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="71107" sby="192" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="404" it="0" lt="393" ct="0" ts="1511861342140" s="true" lb="我参与协作的文档" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="63007" sby="334" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="211" it="0" lt="211" ct="0" ts="1511861342548" s="true" lb="新建个人文档" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="543" sby="457" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="250" it="0" lt="250" ct="0" ts="1511861342762" s="true" lb="个人文档邀请协作" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="759" sby="420" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="236" it="0" lt="235" ct="0" ts="1511861343016" s="true" lb="邀请协作的弹框" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="9964" sby="339" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="187" it="0" lt="187" ct="0" ts="1511861343253" s="true" lb="移除协作者" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="430" sby="390" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="0" ts="1511861343442" s="true" lb="重命名个人文档" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="606" sby="422" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="221" it="0" lt="221" ct="0" ts="1511861343648" s="true" lb="删除个人文档" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="387" sby="311" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="232" it="0" lt="232" ct="4" ts="1511861343870" s="true" lb="新建思维导图" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="543" sby="460" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="224" it="0" lt="224" ct="0" ts="1511861344103" s="true" lb="删除个人导图" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="387" sby="311" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="217" it="0" lt="217" ct="0" ts="1511861344327" s="true" lb="新建文件夹" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="581" sby="421" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="405" it="0" lt="380" ct="0" ts="1511861344546" s="true" lb="访问个人文件夹" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="56713" sby="309" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="219" it="0" lt="219" ct="0" ts="1511861344955" s="true" lb="删除个人文件夹" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="387" sby="313" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3720" it="0" lt="2208" ct="37" ts="1511861341658" s="false" lb="工作台过期时间列表" rc="200" rm="OK" tn="用来测试的模块 3-1" dt="text" by="9652407" sby="221" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含今天到期、本周到期、已过期选项</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /今天到期dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="3981" it="0" lt="2181" ct="37" ts="1511861341658" s="true" lb="工作台过期时间列表" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="9652409" sby="221" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含今天到期、本周到期、已过期选项</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="630" it="0" lt="191" ct="0" ts="1511861345177" s="true" lb="邀请协作的人名控件" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="2967027" sby="293" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>需要包含萝卜哥</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="340" it="0" lt="336" ct="4" ts="1511861345804" s="true" lb="工作台首页" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="27639" sby="308" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="248" it="0" lt="246" ct="0" ts="1511861346147" s="true" lb="我参与的项目" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="13421" sby="338" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="643" it="0" lt="643" ct="0" ts="1511861346397" s="true" lb="导航栏工作台代办数字" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="498" sby="342" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含总数内容</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1325" it="0" lt="1312" ct="0" ts="1511861347043" s="true" lb="我创建的bug(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="83989" sby="383" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="496" it="0" lt="494" ct="5" ts="1511861348375" s="true" lb="工作台预览缺陷" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="13091" sby="461" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含状态、详细描述</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1418" it="0" lt="1386" ct="0" ts="1511861348872" s="true" lb="我创建的需求(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="245802" sby="551" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="457" it="0" lt="457" ct="0" ts="1511861350302" s="true" lb="工作台预览需求" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="9163" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含状态、详细描述</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1005" it="0" lt="984" ct="5" ts="1511861350761" s="true" lb="我创建的任务(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="142649" sby="692" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="439" it="0" lt="439" ct="0" ts="1511861351774" s="true" lb="工作台预览任务" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="3291" sby="462" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含状态、详细描述</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="969" it="0" lt="960" ct="0" ts="1511861352216" s="true" lb="我创建的发布评审(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="54103" sby="833" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1018" it="0" lt="1014" ct="6" ts="1511861353189" s="true" lb="我已办的发布评审(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="30148" sby="972" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2827" it="0" lt="2814" ct="0" ts="1511861354211" s="true" lb="我的已办的缺陷(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="81682" sby="1109" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="990" it="0" lt="967" ct="5" ts="1511861357043" s="true" lb="我已办的任务(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="163777" sby="1247" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1241" it="0" lt="1209" ct="0" ts="1511861358035" s="true" lb="我已办的需求(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="243891" sby="1389" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2306" it="0" lt="1480" ct="6" ts="1511861359285" s="true" lb="我的所有待办(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="9374946" sby="1539" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1057" it="0" lt="1020" ct="4" ts="1511861361671" s="true" lb="我的需求待办(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="292672" sby="1566" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="813" it="0" lt="790" ct="0" ts="1511861362736" s="true" lb="我的任务待办(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="169336" sby="1705" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="767" it="0" lt="751" ct="0" ts="1511861363555" s="true" lb="我的缺陷待办(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="128183" sby="1844" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="715" it="0" lt="705" ct="6" ts="1511861364328" s="true" lb="我的发布评审待办(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="63482" sby="1985" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="1728" it="0" lt="1726" ct="43" ts="1511861366832" s="true" lb="任务列表页面" rc="200" rm="OK" tn="任务模块 2-1" dt="text" by="22750" sby="185" ng="1" na="6">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2046" it="0" lt="2038" ct="43" ts="1511861366832" s="true" lb="项目信息" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="53057" sby="198" ng="1" na="5">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2427" it="0" lt="2382" ct="43" ts="1511861366832" s="false" lb="需求列表页面" rc="200" rm="OK" tn="用来测试的模块 7-1" dt="text" by="342716" sby="259" ng="1" na="5">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /Notice:/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="2480" it="0" lt="2458" ct="43" ts="1511861366832" s="true" lb="缺陷列表" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="177203" sby="200" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="585" it="0" lt="578" ct="5" ts="1511861368890" s="true" lb="应用设置" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="42502" sby="278" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="508" it="0" lt="501" ct="0" ts="1511861369477" s="true" lb="成员与权限" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="37943" sby="292" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="784" it="0" lt="442" ct="4" ts="1511861369326" s="true" lb="缺陷查看页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="25359" sby="533" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="442" it="0" lt="442" ct="4" ts="1511861369326" s="true" lb="http://tiger.oa.com/10093561/prong/tasks/view/1010093561500631767" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="559" sby="286" ng="1" na="4"/>
+  <httpSample t="342" it="0" lt="338" ct="0" ts="1511861369768" s="true" lb="http://tiger.oa.com/errors" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="24800" sby="247" ng="1" na="4"/>
+</httpSample>
+<httpSample t="3565" it="0" lt="2583" ct="43" ts="1511861366832" s="true" lb="创建需求" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="105573" sby="1316" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Notic断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="2583" it="0" lt="2583" ct="43" ts="1511861366832" s="true" lb="http://tiger.oa.com/10093561/prong/stories/add/?url_cache_key=0aba12e3ef975bf6b631bd6be0e6b13e" rc="302" rm="Moved Temporarily" tn="需求模块 6-1" dt="text" by="1190" sby="959" ng="1" na="4">
+    <assertionResult>
+      <name>不报错</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Notic断言</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="971" it="0" lt="956" ct="6" ts="1511861369426" s="true" lb="http://tiger.oa.com/10093561/prong/stories/view/1010093561500635139?url_cache_key=0aba12e3ef975bf6b631bd6be0e6b13e" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="104383" sby="357" ng="1" na="4">
+    <assertionResult>
+      <name>不报错</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Notic断言</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</httpSample>
+<httpSample t="486" it="0" lt="479" ct="0" ts="1511861369990" s="true" lb="消息与报告" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="38056" sby="282" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3684" it="0" lt="3661" ct="43" ts="1511861366832" s="true" lb="迭代页面" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="171207" sby="189" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="477" it="0" lt="477" ct="0" ts="1511861370113" s="true" lb="缺陷查看下源文件Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="3552" sby="322" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="476" it="0" lt="470" ct="0" ts="1511861370479" s="true" lb="其他设置" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="38239" sby="280" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="533" it="0" lt="533" ct="0" ts="1511861370592" s="true" lb="缺陷查看下代码评审Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="4613" sby="342" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="845" it="0" lt="837" ct="5" ts="1511861370528" s="true" lb="迭代详情页面" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="60423" sby="291" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="544" it="0" lt="533" ct="6" ts="1511861370959" s="true" lb="启用应用" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="64044" sby="277" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1136" it="0" lt="1135" ct="0" ts="1511861370405" s="true" lb="需求列表快速创建需求" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="12926" sby="873" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="511" it="0" lt="504" ct="0" ts="1511861371126" s="true" lb="缺陷查看下SVN提交Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="37276" sby="316" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="595" it="0" lt="591" ct="0" ts="1511861371378" s="true" lb="迭代详情下缺陷Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="31598" sby="491" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="597" it="0" lt="579" ct="0" ts="1511861371507" s="true" lb="项目成员" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="128039" sby="263" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="552" it="0" lt="552" ct="6" ts="1511861371640" s="true" lb="缺陷查看下变更历史Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="1291" sby="333" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="939" it="0" lt="897" ct="7" ts="1511861371543" s="true" lb="需求列表页面" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="335935" sby="358" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="466" it="0" lt="458" ct="0" ts="1511861372108" s="true" lb="用户组权限" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="46626" sby="255" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="510" it="0" lt="504" ct="0" ts="1511861372194" s="true" lb="缺陷查看下测试用例Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="35432" sby="319" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="537" it="0" lt="527" ct="0" ts="1511861372577" s="true" lb="消息通知" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="63878" sby="276" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1122" it="0" lt="1020" ct="0" ts="1511861371977" s="true" lb="迭代详情下成员任务跟踪Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="1052321" sby="322" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="568" it="0" lt="561" ct="0" ts="1511861372707" s="true" lb="缺陷查看下需求Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="38151" sby="337" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="820" it="0" lt="804" ct="0" ts="1511861372492" s="true" lb="需求详情页面" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="103509" sby="586" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Notic断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="516" it="0" lt="509" ct="7" ts="1511861373118" s="true" lb="报告设置" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="38356" sby="283" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="553" it="0" lt="553" ct="6" ts="1511861373120" s="true" lb="迭代详情下进度图Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="5431" sby="350" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="564" it="0" lt="564" ct="0" ts="1511861373278" s="true" lb="缺陷查看下源文件Tab页下添加源文件" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="503" sby="866" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="730" it="0" lt="717" ct="0" ts="1511861373314" s="true" lb="需求编辑页面" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="75578" sby="586" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="509" it="0" lt="501" ct="0" ts="1511861373637" s="true" lb="项目报告模版" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="45017" sby="308" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="570" it="0" lt="570" ct="0" ts="1511861373676" s="true" lb="迭代详情下甘特图Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="12683" sby="324" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="575" it="0" lt="563" ct="5" ts="1511861373843" s="true" lb="创建缺陷页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="78959" sby="291" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="496" it="0" lt="496" ct="6" ts="1511861374048" s="true" lb="需求分类下查询所有需求数" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="388" sby="747" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回结果必须是数字</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="498" it="0" lt="490" ct="0" ts="1511861374149" s="true" lb="定时报告模版" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="40827" sby="281" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="481" it="0" lt="474" ct="0" ts="1511861374650" s="true" lb="项目公共参数设置" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="38605" sby="290" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="755" it="0" lt="755" ct="0" ts="1511861374422" s="true" lb="缺陷列表快速创建缺陷" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="851" sby="859" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="933" it="0" lt="890" ct="0" ts="1511861374546" s="true" lb="需求分类树下查询所有需求列表" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="340199" sby="604" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="484" it="0" lt="474" ct="6" ts="1511861375133" s="true" lb="模块" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="62309" sby="263" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="649" it="0" lt="637" ct="0" ts="1511861375178" s="true" lb="缺陷编辑页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="78487" sby="288" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1667" it="0" lt="1643" ct="0" ts="1511861374247" s="true" lb="迭代详情下工时报告Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="179315" sby="345" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="500" it="0" lt="500" ct="0" ts="1511861375489" s="true" lb="需求查看下花费TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="2251" sby="406" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="699" it="0" lt="208" ct="0" ts="1511861375620" s="true" lb="特性" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="36672" sby="538" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="208" it="0" lt="208" ct="0" ts="1511861375620" s="true" lb="http://tiger.oa.com/10093561/features/index" rc="302" rm="Moved Temporarily" tn="项目设置模块 3-1" dt="text" by="459" sby="264" ng="1" na="4"/>
+  <httpSample t="490" it="0" lt="483" ct="0" ts="1511861375829" s="true" lb="http://tiger.oa.com/10093561/users/denied/page_not_on" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="36213" sby="274" ng="1" na="4"/>
+</httpSample>
+<httpSample t="572" it="0" lt="572" ct="6" ts="1511861375920" s="true" lb="迭代详情下测试计划Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="1016" sby="333" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="510" it="0" lt="510" ct="0" ts="1511861375990" s="true" lb="需求查看下源文件TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="3556" sby="340" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="523" it="0" lt="510" ct="0" ts="1511861376322" s="true" lb="版本" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="90531" sby="264" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1082" it="0" lt="1077" ct="0" ts="1511861375831" s="true" lb="缺陷查看_更多_复制缺陷弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="29948" sby="388" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="534" it="0" lt="527" ct="0" ts="1511861376494" s="true" lb="迭代详情下发布评审Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="35430" sby="334" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="537" it="0" lt="533" ct="6" ts="1511861376502" s="true" lb="需求查看下任务TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="19407" sby="574" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="507" it="0" lt="498" ct="0" ts="1511861376848" s="true" lb="基线" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="49452" sby="265" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="606" it="0" lt="604" ct="0" ts="1511861377031" s="true" lb="迭代详情下变更历史Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="15359" sby="325" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="468" it="0" lt="460" ct="6" ts="1511861377358" s="true" lb="源文件类型" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="46949" sby="291" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="832" it="0" lt="832" ct="0" ts="1511861377042" s="true" lb="需求查看下任务TAB页快速创建任务" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="385" sby="616" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1083" it="0" lt="1080" ct="5" ts="1511861376916" s="true" lb="缺陷查看_更多_移动弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="23257" sby="345" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="519" it="0" lt="516" ct="0" ts="1511861377640" s="true" lb="创建迭代" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="20207" sby="955" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="516" it="0" lt="507" ct="0" ts="1511861377829" s="true" lb="可选功能" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="57689" sby="286" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="619" it="0" lt="612" ct="0" ts="1511861377875" s="true" lb="需求查看下需求TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="40176" sby="639" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="517" it="0" lt="517" ct="0" ts="1511861378002" s="true" lb="缺陷查看_更多_合并弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="8826" sby="358" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="494" it="0" lt="487" ct="0" ts="1511861378349" s="true" lb="项目系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="39203" sby="280" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="459" it="0" lt="458" ct="0" ts="1511861378521" s="true" lb="缺陷查看_更多_关联重复缺陷弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="386" sby="306" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="533" it="0" lt="525" ct="0" ts="1511861378846" s="true" lb="需求系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="51822" sby="290" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="488" it="0" lt="488" ct="6" ts="1511861378981" s="true" lb="缺陷查看_更多_转需求弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="7021" sby="340" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="499" it="0" lt="487" ct="6" ts="1511861379382" s="true" lb="缺陷系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="81054" sby="288" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="563" it="0" lt="553" ct="0" ts="1511861379471" s="true" lb="缺陷查看_更多_转测试用例页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="58514" sby="303" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="491" it="0" lt="484" ct="0" ts="1511861379885" s="true" lb="时间线系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="45257" sby="293" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="437" it="0" lt="437" ct="0" ts="1511861380037" s="true" lb="缺陷查看_更多_添加源文件弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="10704" sby="454" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="482" it="0" lt="474" ct="0" ts="1511861380378" s="true" lb="迭代系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="46157" sby="294" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="502" it="0" lt="498" ct="0" ts="1511861380475" s="true" lb="缺陷查看_更多_创建代码评审弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="22722" sby="298" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3012" it="0" lt="3012" ct="6" ts="1511861378162" s="true" lb="迭代详情下需求与任务Tab页下快速创建需求" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="7886" sby="521" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="493" it="0" lt="485" ct="0" ts="1511861380863" s="true" lb="任务系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="52586" sby="289" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="562" it="0" lt="555" ct="6" ts="1511861381176" s="true" lb="迭代编辑页面" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="41499" sby="313" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="481" it="0" lt="472" ct="0" ts="1511861381357" s="true" lb="发布评审系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="49100" sby="295" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="469" it="0" lt="469" ct="0" ts="1511861381741" s="true" lb="迭代详情下转测试Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="1871" sby="356" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3838" it="0" lt="3838" ct="0" ts="1511861378497" s="true" lb="需求查看下需求TAB页快速创建需求" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="515" sby="959" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="497" it="0" lt="490" ct="5" ts="1511861381841" s="true" lb="发布计划系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="46182" sby="292" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1831" it="0" lt="858" ct="0" ts="1511861380980" s="true" lb="缺陷列表_创建缺陷" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="113459" sby="897" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="858" it="0" lt="858" ct="0" ts="1511861380980" s="true" lb="http://tiger.oa.com/10093561/bugtrace/bugs/submit_from_add/0" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="726" sby="580" ng="1" na="4"/>
+  <httpSample t="972" it="0" lt="955" ct="7" ts="1511861381839" s="true" lb="http://tiger.oa.com/10093561/bugtrace/bugs/view?bug_id=1010093561500631779" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="112733" sby="317" ng="1" na="4"/>
+</httpSample>
+<httpSample t="507" it="0" lt="500" ct="0" ts="1511861382339" s="true" lb="测试计划系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="46213" sby="294" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="642" it="0" lt="634" ct="4" ts="1511861382336" s="true" lb="需求查看下缺陷TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="45676" sby="656" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="498" it="0" lt="498" ct="0" ts="1511861382979" s="true" lb="需求查看下缺陷TAB页快速创建缺陷" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="529" sby="584" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="820" it="0" lt="795" ct="0" ts="1511861382816" s="true" lb="缺陷列表_分页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="177496" sby="538" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="527" it="0" lt="521" ct="0" ts="1511861383642" s="true" lb="缺陷列表_设置显示字段弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="33399" sby="377" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含基础字段、人员和时间、当前选定的字段</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="695" it="0" lt="689" ct="0" ts="1511861383479" s="true" lb="需求查看下测试用例TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="45564" sby="387" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="576" it="0" lt="563" ct="5" ts="1511861384173" s="true" lb="缺陷列表_组合查询页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="81676" sby="320" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含返回符合下列、条件的缺陷、添加过滤字段</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2793" it="0" lt="2777" ct="0" ts="1511861382212" s="true" lb="迭代详情下源文件Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="107416" sby="345" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1112" it="0" lt="1112" ct="0" ts="1511861384177" s="true" lb="需求查看下测试用例TAB页快速创建测试用例" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="419" sby="616" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="610" it="0" lt="599" ct="0" ts="1511861384754" s="true" lb="缺陷列表_高级查询页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="65172" sby="403" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含展开说明、插入条件、删除条件</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="462" it="0" lt="462" ct="4" ts="1511861385290" s="true" lb="需求查看下代码评审TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="4604" sby="366" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="595" it="0" lt="578" ct="0" ts="1511861385365" s="true" lb="缺陷列表_历史查询页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="117414" sby="478" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含查询条件、变更时间、添加过滤字段</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="482" it="0" lt="475" ct="0" ts="1511861385754" s="true" lb="需求查看下SVN提交TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="37272" sby="339" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1339" it="0" lt="1286" ct="6" ts="1511861385009" s="true" lb="迭代详情_规划迭代" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="494389" sby="323" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="503" it="0" lt="496" ct="0" ts="1511861385966" s="true" lb="缺陷列表_更多操作_缺陷统计页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="42773" sby="473" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含缺陷分布图、缺陷趋势图、缺陷年龄报告</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="494" it="0" lt="494" ct="0" ts="1511861386239" s="true" lb="需求查看下变更历史TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="2444" sby="431" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="608" it="0" lt="596" ct="4" ts="1511861386471" s="true" lb="缺陷列表_更多操作_高级查询页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="81405" sby="501" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含返回符合下列、条件的缺陷、添加过滤字段</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="475" it="0" lt="468" ct="0" ts="1511861387085" s="true" lb="缺陷列表_更多操作_导出缺陷选择字段弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="38760" sby="343" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含基础字段、人员和时间、选择所有字段</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1428" it="0" lt="1303" ct="0" ts="1511861386352" s="true" lb="迭代详情_工作分配" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="1377338" sby="319" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="419" it="0" lt="418" ct="0" ts="1511861387564" s="true" lb="缺陷列表_更多操作_导出缺陷" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="530" sby="846" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="469" it="0" lt="461" ct="0" ts="1511861387984" s="true" lb="缺陷列表_更多操作_导入缺陷页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="44415" sby="290" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含准备缺陷、上传数据文件、下一步</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="634" it="0" lt="623" ct="6" ts="1511861387927" s="true" lb="迭代详情_更多_创建需求" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="76831" sby="322" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="534" it="0" lt="521" ct="0" ts="1511861388565" s="true" lb="迭代详情_更多_创建任务" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="80344" sby="320" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="730" it="0" lt="730" ct="0" ts="1511861388454" s="true" lb="缺陷列表_视图_新建个人视图" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="566" sby="864" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="586" it="0" lt="565" ct="0" ts="1511861389103" s="true" lb="迭代详情_更多_需求批量流转" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="167585" sby="347" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="706" it="0" lt="706" ct="7" ts="1511861389186" s="true" lb="缺陷列表_视图_新建系统视图" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="566" sby="876" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="508" it="0" lt="498" ct="0" ts="1511861389694" s="true" lb="迭代详情_更多_创建测试计划" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="58980" sby="363" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="494" it="0" lt="482" ct="0" ts="1511861389892" s="true" lb="缺陷列表_视图_配置系统视图页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="82713" sby="310" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含默认视图、启用视图、创建缺陷系统视图</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="907" it="0" lt="852" ct="6" ts="1511861390205" s="true" lb="迭代详情_更多_转测试" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="566178" sby="525" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1032" it="0" lt="534" ct="0" ts="1511861390388" s="true" lb="缺陷列表_视图_删除系统视图" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="82123" sby="673" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="534" it="0" lt="534" ct="0" ts="1511861390388" s="true" lb="http://tiger.oa.com/10093561/userviews/delete_workspace_view/1010093561000321531?location=/bugtrace/bugreports/my_view" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="571" sby="361" ng="1" na="2"/>
+  <httpSample t="497" it="0" lt="484" ct="0" ts="1511861390923" s="true" lb="http://tiger.oa.com/10093561/userviews/workspace_view_list/p_bug_view" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="81552" sby="312" ng="1" na="2"/>
+</httpSample>
+<httpSample t="679" it="0" lt="661" ct="0" ts="1511861391118" s="true" lb="迭代详情_更多_创建发布评审" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="130722" sby="337" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="505" it="0" lt="489" ct="3" ts="1511861391421" s="true" lb="缺陷列表_视图_配置个人视图页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="102458" sby="306" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含默认视图、启用视图、自动记忆上次查看的视图</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1734" it="0" lt="465" ct="0" ts="1511861391932" s="true" lb="缺陷列表_视图_删除个人视图" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="343652" sby="1003" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="465" it="0" lt="465" ct="0" ts="1511861391932" s="true" lb="http://tiger.oa.com/10093561/userviews/delete/1010093561000321525?location=/bugtrace/bugreports/my_view" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="639" sby="346" ng="1" na="1"/>
+  <httpSample t="393" it="0" lt="393" ct="0" ts="1511861392398" s="true" lb="http://tiger.oa.com/10093561" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="459" sby="271" ng="1" na="1"/>
+  <httpSample t="874" it="0" lt="834" ct="0" ts="1511861392792" s="true" lb="http://tiger.oa.com/bita2x/prong/stories/stories_list" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="342554" sby="386" ng="1" na="1"/>
+</httpSample>
+<httpSample t="955" it="0" lt="951" ct="5" ts="1511861393671" s="true" lb="缺陷列表_批量操作_批量移动弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="23254" sby="344" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="973" it="0" lt="969" ct="0" ts="1511861394628" s="true" lb="缺陷列表_批量操作_批量复制弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="29893" sby="367" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="452" it="0" lt="444" ct="0" ts="1511861395604" s="true" lb="缺陷列表_批量操作_批量编辑弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="42357" sby="309" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="460" it="0" lt="456" ct="38" ts="1511863693966" s="true" lb="我创建的文档" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="71789" sby="192" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="381" it="0" lt="371" ct="0" ts="1511863694461" s="true" lb="我参与协作的文档" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="63004" sby="334" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="231" it="0" lt="231" ct="0" ts="1511863694853" s="true" lb="新建个人文档" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="543" sby="457" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="257" it="0" lt="257" ct="0" ts="1511863695092" s="true" lb="个人文档邀请协作" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="759" sby="420" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="232" it="0" lt="232" ct="0" ts="1511863695353" s="true" lb="邀请协作的弹框" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="9964" sby="339" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="193" it="0" lt="193" ct="0" ts="1511863695588" s="true" lb="移除协作者" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="430" sby="390" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="209" it="0" lt="209" ct="0" ts="1511863695782" s="true" lb="重命名个人文档" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="606" sby="422" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="268" it="0" lt="268" ct="0" ts="1511863695994" s="true" lb="删除个人文档" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="387" sby="311" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="245" it="0" lt="245" ct="7" ts="1511863696266" s="true" lb="新建思维导图" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="543" sby="460" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>页面需要包含的元素</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="225" it="0" lt="225" ct="0" ts="1511863696515" s="true" lb="删除个人导图" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="387" sby="311" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="224" it="0" lt="224" ct="0" ts="1511863696741" s="true" lb="新建文件夹" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="581" sby="421" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="438" it="0" lt="410" ct="0" ts="1511863696969" s="true" lb="访问个人文件夹" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="57392" sby="309" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="239" it="0" lt="239" ct="0" ts="1511863697409" s="true" lb="删除个人文件夹" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="387" sby="313" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回正确</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3820" it="0" lt="2261" ct="38" ts="1511863693966" s="true" lb="工作台过期时间列表" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="9652411" sby="221" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含今天到期、本周到期、已过期选项</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3964" it="0" lt="2290" ct="38" ts="1511863693966" s="false" lb="工作台过期时间列表" rc="200" rm="OK" tn="用来测试的模块 3-1" dt="text" by="9652409" sby="221" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含今天到期、本周到期、已过期选项</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /今天到期dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="528" it="0" lt="180" ct="0" ts="1511863697650" s="true" lb="邀请协作的人名控件" rc="200" rm="OK" tn="个人文档 2-1" dt="text" by="2967027" sby="293" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>需要包含萝卜哥</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="352" it="0" lt="348" ct="8" ts="1511863697974" s="true" lb="工作台首页" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="27631" sby="308" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="260" it="0" lt="260" ct="0" ts="1511863698329" s="true" lb="我参与的项目" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="13417" sby="338" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="664" it="0" lt="664" ct="0" ts="1511863698592" s="true" lb="导航栏工作台代办数字" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="498" sby="342" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含总数内容</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1183" it="0" lt="1170" ct="0" ts="1511863699258" s="true" lb="我创建的bug(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="83985" sby="383" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="513" it="0" lt="510" ct="4" ts="1511863700443" s="true" lb="工作台预览缺陷" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="13097" sby="461" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含状态、详细描述</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1396" it="0" lt="1370" ct="0" ts="1511863700959" s="true" lb="我创建的需求(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="245798" sby="551" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="127301" it="0" lt="127301" ct="0" ts="1511863702358" s="false" lb="工作台预览需求" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="1430" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含状态、详细描述</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /状态： /</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1017" it="0" lt="996" ct="7" ts="1511863829668" s="true" lb="我创建的任务(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="142957" sby="692" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="464" it="0" lt="464" ct="0" ts="1511863830696" s="true" lb="工作台预览任务" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="3289" sby="462" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含状态、详细描述</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="971" it="0" lt="963" ct="0" ts="1511863831163" s="true" lb="我创建的发布评审(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="54093" sby="833" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="856" it="0" lt="852" ct="6" ts="1511863832139" s="true" lb="我已办的发布评审(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="30152" sby="972" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1735" it="0" lt="1723" ct="0" ts="1511863832999" s="true" lb="我的已办的缺陷(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="81684" sby="1109" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="992" it="0" lt="968" ct="6" ts="1511863834739" s="true" lb="我已办的任务(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="163777" sby="1247" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1271" it="0" lt="1239" ct="0" ts="1511863835737" s="true" lb="我已办的需求(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="243893" sby="1389" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2281" it="0" lt="1452" ct="6" ts="1511863837017" s="true" lb="我的所有待办(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="9374948" sby="1539" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1011" it="0" lt="974" ct="3" ts="1511863839406" s="true" lb="我的需求待办(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="292668" sby="1566" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="819" it="0" lt="797" ct="0" ts="1511863840426" s="true" lb="我的任务待办(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="169334" sby="1705" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="756" it="0" lt="738" ct="0" ts="1511863841253" s="true" lb="我的缺陷待办(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="128183" sby="1844" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="751" it="0" lt="740" ct="6" ts="1511863842015" s="true" lb="我的发布评审待办(工作台)" rc="200" rm="OK" tn="公共用例 1-1" dt="text" by="63480" sby="1985" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+<httpSample t="1324" it="0" lt="1322" ct="44" ts="1511863844751" s="true" lb="任务列表页面" rc="200" rm="OK" tn="任务模块 2-1" dt="text" by="22752" sby="185" ng="1" na="6">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1519" it="0" lt="1511" ct="44" ts="1511863844751" s="true" lb="项目信息" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="53050" sby="198" ng="1" na="5">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1887" it="0" lt="1862" ct="44" ts="1511863844751" s="true" lb="缺陷列表" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="177159" sby="200" ng="1" na="5">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1932" it="0" lt="1887" ct="44" ts="1511863844751" s="false" lb="需求列表页面" rc="200" rm="OK" tn="用来测试的模块 7-1" dt="text" by="342721" sby="259" ng="1" na="5">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /Notice:/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="2093" it="0" lt="2067" ct="44" ts="1511863844751" s="true" lb="迭代页面" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="171204" sby="189" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="675" it="0" lt="668" ct="0" ts="1511863846299" s="true" lb="应用设置" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="42508" sby="278" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="512" it="0" lt="505" ct="7" ts="1511863846977" s="true" lb="成员与权限" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="37943" sby="292" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="888" it="0" lt="543" ct="0" ts="1511863846673" s="true" lb="缺陷查看页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="25365" sby="533" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="543" it="0" lt="543" ct="0" ts="1511863846673" s="true" lb="http://tiger.oa.com/10093561/prong/tasks/view/1010093561500631781" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="559" sby="286" ng="1" na="4"/>
+  <httpSample t="342" it="0" lt="338" ct="6" ts="1511863847219" s="true" lb="http://tiger.oa.com/errors" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="24806" sby="247" ng="1" na="4"/>
+</httpSample>
+<httpSample t="722" it="0" lt="712" ct="6" ts="1511863846866" s="true" lb="迭代详情页面" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="60418" sby="291" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2897" it="0" lt="1941" ct="44" ts="1511863844751" s="true" lb="创建需求" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="105576" sby="1336" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Notic断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1941" it="0" lt="1941" ct="44" ts="1511863844751" s="true" lb="http://tiger.oa.com/10093561/prong/stories/add/?url_cache_key=0aba12e3ef975bf6b631bd6be0e6b13e" rc="302" rm="Moved Temporarily" tn="需求模块 6-1" dt="text" by="1190" sby="979" ng="1" na="4">
+    <assertionResult>
+      <name>不报错</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Notic断言</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+  <httpSample t="938" it="0" lt="922" ct="0" ts="1511863846710" s="true" lb="http://tiger.oa.com/10093561/prong/stories/view/1010093561500635161?url_cache_key=0aba12e3ef975bf6b631bd6be0e6b13e" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="104386" sby="357" ng="1" na="4">
+    <assertionResult>
+      <name>不报错</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <assertionResult>
+      <name>Notic断言</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+  </httpSample>
+</httpSample>
+<httpSample t="500" it="0" lt="493" ct="0" ts="1511863847490" s="true" lb="消息与报告" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="38054" sby="282" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="481" it="0" lt="481" ct="0" ts="1511863847565" s="true" lb="缺陷查看下源文件Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="3550" sby="322" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="585" it="0" lt="581" ct="0" ts="1511863847592" s="true" lb="迭代详情下缺陷Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="31604" sby="491" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="476" it="0" lt="470" ct="0" ts="1511863847994" s="true" lb="其他设置" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="38239" sby="280" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="479" it="0" lt="479" ct="0" ts="1511863848048" s="true" lb="缺陷查看下代码评审Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="4609" sby="342" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="954" it="0" lt="954" ct="6" ts="1511863847656" s="true" lb="需求列表快速创建需求" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="12924" sby="867" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="509" it="0" lt="501" ct="0" ts="1511863848529" s="true" lb="缺陷查看下SVN提交Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="37273" sby="316" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="576" it="0" lt="566" ct="0" ts="1511863848473" s="true" lb="启用应用" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="64050" sby="277" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1069" it="0" lt="966" ct="0" ts="1511863848178" s="true" lb="迭代详情下成员任务跟踪Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="1057350" sby="322" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="954" it="0" lt="913" ct="0" ts="1511863848612" s="true" lb="需求列表页面" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="335943" sby="358" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="600" it="0" lt="600" ct="0" ts="1511863849040" s="true" lb="缺陷查看下变更历史Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="1287" sby="333" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="596" it="0" lt="578" ct="6" ts="1511863849053" s="true" lb="项目成员" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="128049" sby="263" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="539" it="0" lt="539" ct="5" ts="1511863849265" s="true" lb="迭代详情下进度图Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="5432" sby="350" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="518" it="0" lt="509" ct="0" ts="1511863849654" s="true" lb="用户组权限" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="46630" sby="255" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="643" it="0" lt="636" ct="6" ts="1511863849643" s="true" lb="缺陷查看下测试用例Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="35434" sby="319" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="597" it="0" lt="597" ct="0" ts="1511863849804" s="true" lb="迭代详情下甘特图Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="12687" sby="324" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="845" it="0" lt="832" ct="0" ts="1511863849576" s="true" lb="需求详情页面" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="103514" sby="586" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Notic断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="554" it="0" lt="543" ct="0" ts="1511863850174" s="true" lb="消息通知" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="63878" sby="276" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="613" it="0" lt="601" ct="0" ts="1511863850288" s="true" lb="缺陷查看下需求Tab页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="38145" sby="337" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="750" it="0" lt="739" ct="6" ts="1511863850424" s="true" lb="需求编辑页面" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="75572" sby="586" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="528" it="0" lt="521" ct="0" ts="1511863850729" s="true" lb="报告设置" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="38356" sby="283" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="496" it="0" lt="496" ct="0" ts="1511863850902" s="true" lb="缺陷查看下源文件Tab页下添加源文件" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="503" sby="866" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="534" it="0" lt="534" ct="0" ts="1511863851178" s="true" lb="需求分类下查询所有需求数" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="388" sby="747" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>返回结果必须是数字</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="564" it="0" lt="557" ct="6" ts="1511863851260" s="true" lb="项目报告模版" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="45015" sby="308" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="608" it="0" lt="596" ct="0" ts="1511863851400" s="true" lb="创建缺陷页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="78961" sby="291" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1742" it="0" lt="1716" ct="0" ts="1511863850403" s="true" lb="迭代详情下工时报告Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="180144" sby="345" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="511" it="0" lt="504" ct="0" ts="1511863851825" s="true" lb="定时报告模版" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="40827" sby="281" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="981" it="0" lt="940" ct="0" ts="1511863851715" s="true" lb="需求分类树下查询所有需求列表" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="340194" sby="604" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="590" it="0" lt="590" ct="6" ts="1511863852150" s="true" lb="迭代详情下测试计划Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="1018" sby="333" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="502" it="0" lt="495" ct="0" ts="1511863852339" s="true" lb="项目公共参数设置" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="38615" sby="290" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="962" it="0" lt="962" ct="7" ts="1511863852012" s="true" lb="缺陷列表快速创建缺陷" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="851" sby="856" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="479" it="0" lt="479" ct="6" ts="1511863852705" s="true" lb="需求查看下花费TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="2253" sby="406" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="583" it="0" lt="576" ct="0" ts="1511863852742" s="true" lb="迭代详情下发布评审Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="35426" sby="334" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="489" it="0" lt="479" ct="0" ts="1511863852842" s="true" lb="模块" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="62305" sby="263" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="542" it="0" lt="542" ct="0" ts="1511863853187" s="true" lb="需求查看下源文件TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="3556" sby="340" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="828" it="0" lt="817" ct="0" ts="1511863852976" s="true" lb="缺陷编辑页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="78485" sby="288" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="578" it="0" lt="576" ct="0" ts="1511863853328" s="true" lb="迭代详情下变更历史Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="15355" sby="325" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="687" it="0" lt="201" ct="5" ts="1511863853334" s="true" lb="特性" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="36674" sby="538" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="201" it="0" lt="201" ct="5" ts="1511863853334" s="true" lb="http://tiger.oa.com/10093561/features/index" rc="302" rm="Moved Temporarily" tn="项目设置模块 3-1" dt="text" by="459" sby="264" ng="1" na="4"/>
+  <httpSample t="486" it="0" lt="479" ct="0" ts="1511863853535" s="true" lb="http://tiger.oa.com/10093561/users/denied/page_not_on" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="36215" sby="274" ng="1" na="4"/>
+</httpSample>
+<httpSample t="545" it="0" lt="541" ct="0" ts="1511863853732" s="true" lb="需求查看下任务TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="19407" sby="574" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="534" it="0" lt="531" ct="0" ts="1511863853908" s="true" lb="创建迭代" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="20201" sby="955" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="546" it="0" lt="531" ct="0" ts="1511863854024" s="true" lb="版本" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="90528" sby="264" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1157" it="0" lt="1153" ct="0" ts="1511863853805" s="true" lb="缺陷查看_更多_复制缺陷弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="29950" sby="388" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="543" it="0" lt="535" ct="0" ts="1511863854573" s="true" lb="基线" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="49452" sby="265" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1233" it="0" lt="1233" ct="0" ts="1511863854279" s="true" lb="需求查看下任务TAB页快速创建任务" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="385" sby="616" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="479" it="0" lt="471" ct="0" ts="1511863855120" s="true" lb="源文件类型" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="46949" sby="291" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1322" it="0" lt="1322" ct="7" ts="1511863854445" s="true" lb="迭代详情下需求与任务Tab页下快速创建需求" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="7892" sby="521" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1076" it="0" lt="1073" ct="6" ts="1511863854966" s="true" lb="缺陷查看_更多_移动弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="23257" sby="345" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="500" it="0" lt="490" ct="6" ts="1511863855601" s="true" lb="可选功能" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="57685" sby="286" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="598" it="0" lt="591" ct="5" ts="1511863855514" s="true" lb="需求查看下需求TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="40176" sby="639" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="572" it="0" lt="565" ct="0" ts="1511863855770" s="true" lb="迭代编辑页面" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="41497" sby="313" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="503" it="0" lt="503" ct="0" ts="1511863856045" s="true" lb="缺陷查看_更多_合并弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="8827" sby="358" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="512" it="0" lt="505" ct="0" ts="1511863856104" s="true" lb="项目系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="39207" sby="280" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="494" it="0" lt="494" ct="0" ts="1511863856345" s="true" lb="迭代详情下转测试Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="1873" sby="356" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="478" it="0" lt="478" ct="0" ts="1511863856549" s="true" lb="缺陷查看_更多_关联重复缺陷弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="386" sby="306" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="518" it="0" lt="509" ct="0" ts="1511863856618" s="true" lb="需求系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="51822" sby="290" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="509" it="0" lt="509" ct="6" ts="1511863857029" s="true" lb="缺陷查看_更多_转需求弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="7021" sby="340" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="794" it="0" lt="777" ct="4" ts="1511863856840" s="true" lb="迭代详情下源文件Tab页" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="107902" sby="345" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="552" it="0" lt="537" ct="0" ts="1511863857139" s="true" lb="缺陷系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="81055" sby="288" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1821" it="0" lt="1821" ct="0" ts="1511863856114" s="true" lb="需求查看下需求TAB页快速创建需求" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="515" sby="959" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="584" it="0" lt="574" ct="0" ts="1511863857539" s="true" lb="缺陷查看_更多_转测试用例页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="58512" sby="303" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="521" it="0" lt="514" ct="6" ts="1511863857694" s="true" lb="时间线系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="45258" sby="293" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="632" it="0" lt="625" ct="6" ts="1511863857937" s="true" lb="需求查看下缺陷TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="45675" sby="656" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="471" it="0" lt="470" ct="0" ts="1511863858126" s="true" lb="缺陷查看_更多_添加源文件弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="10698" sby="454" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="523" it="0" lt="515" ct="0" ts="1511863858217" s="true" lb="迭代系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="46157" sby="294" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1301" it="0" lt="1248" ct="0" ts="1511863857637" s="true" lb="迭代详情_规划迭代" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="494734" sby="323" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="507" it="0" lt="504" ct="0" ts="1511863858597" s="true" lb="缺陷查看_更多_创建代码评审弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="22721" sby="298" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="512" it="0" lt="504" ct="0" ts="1511863858743" s="true" lb="任务系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="52584" sby="289" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="686" it="0" lt="686" ct="0" ts="1511863858571" s="true" lb="需求查看下缺陷TAB页快速创建缺陷" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="529" sby="584" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="547" it="0" lt="539" ct="0" ts="1511863859257" s="true" lb="发布评审系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="49106" sby="295" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="670" it="0" lt="662" ct="0" ts="1511863859259" s="true" lb="需求查看下测试用例TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="45566" sby="387" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="502" it="0" lt="494" ct="5" ts="1511863859807" s="true" lb="发布计划系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="46184" sby="292" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1533" it="0" lt="1394" ct="3" ts="1511863858941" s="true" lb="迭代详情_工作分配" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="1383520" sby="319" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="859" it="0" lt="858" ct="0" ts="1511863859930" s="true" lb="需求查看下测试用例TAB页快速创建测试用例" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="419" sby="616" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="522" it="0" lt="513" ct="0" ts="1511863860312" s="true" lb="测试计划系统视图" rc="200" rm="OK" tn="项目设置模块 3-1" dt="text" by="46215" sby="294" ng="1" na="4">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1793" it="0" lt="980" ct="6" ts="1511863859107" s="true" lb="缺陷列表_创建缺陷" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="113457" sby="897" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="980" it="0" lt="980" ct="6" ts="1511863859107" s="true" lb="http://tiger.oa.com/10093561/bugtrace/bugs/submit_from_add/0" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="726" sby="580" ng="1" na="3"/>
+  <httpSample t="812" it="0" lt="796" ct="0" ts="1511863860088" s="true" lb="http://tiger.oa.com/10093561/bugtrace/bugs/view?bug_id=1010093561500631791" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="112731" sby="317" ng="1" na="3"/>
+</httpSample>
+<httpSample t="604" it="0" lt="591" ct="0" ts="1511863860500" s="true" lb="迭代详情_更多_创建需求" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="76835" sby="322" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="463" it="0" lt="463" ct="6" ts="1511863860790" s="true" lb="需求查看下代码评审TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="4602" sby="366" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="549" it="0" lt="537" ct="6" ts="1511863861107" s="true" lb="迭代详情_更多_创建任务" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="80350" sby="320" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="464" it="0" lt="457" ct="0" ts="1511863861255" s="true" lb="需求查看下SVN提交TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="37270" sby="339" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1037" it="0" lt="1014" ct="0" ts="1511863860902" s="true" lb="缺陷列表_分页" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="177814" sby="538" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="471" it="0" lt="471" ct="0" ts="1511863861722" s="true" lb="需求查看下变更历史TAB页" rc="200" rm="OK" tn="需求模块 6-1" dt="text" by="2444" sby="431" ng="1" na="3">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="624" it="0" lt="600" ct="0" ts="1511863861658" s="true" lb="迭代详情_更多_需求批量流转" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="168205" sby="347" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="502" it="0" lt="496" ct="4" ts="1511863861941" s="true" lb="缺陷列表_设置显示字段弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="33401" sby="377" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含基础字段、人员和时间、当前选定的字段</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="540" it="0" lt="530" ct="0" ts="1511863862287" s="true" lb="迭代详情_更多_创建测试计划" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="58984" sby="363" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="593" it="0" lt="581" ct="0" ts="1511863862446" s="true" lb="缺陷列表_组合查询页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="81674" sby="320" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含返回符合下列、条件的缺陷、添加过滤字段</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="615" it="0" lt="604" ct="0" ts="1511863863044" s="true" lb="缺陷列表_高级查询页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="65171" sby="403" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含展开说明、插入条件、删除条件</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="908" it="0" lt="850" ct="0" ts="1511863862829" s="true" lb="迭代详情_更多_转测试" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="568393" sby="525" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="615" it="0" lt="598" ct="0" ts="1511863863660" s="true" lb="缺陷列表_历史查询页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="117416" sby="478" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含查询条件、变更时间、添加过滤字段</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="702" it="0" lt="684" ct="5" ts="1511863863756" s="true" lb="迭代详情_更多_创建发布评审" rc="200" rm="OK" tn="迭代模块 4-1" dt="text" by="130782" sby="337" ng="1" na="2">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="495" it="0" lt="487" ct="4" ts="1511863864278" s="true" lb="缺陷列表_更多操作_缺陷统计页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="42785" sby="473" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含缺陷分布图、缺陷趋势图、缺陷年龄报告</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="586" it="0" lt="573" ct="0" ts="1511863864777" s="true" lb="缺陷列表_更多操作_高级查询页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="81411" sby="501" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含返回符合下列、条件的缺陷、添加过滤字段</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="451" it="0" lt="444" ct="0" ts="1511863865366" s="true" lb="缺陷列表_更多操作_导出缺陷选择字段弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="38756" sby="343" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含基础字段、人员和时间、选择所有字段</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="414" it="0" lt="413" ct="0" ts="1511863865819" s="true" lb="缺陷列表_更多操作_导出缺陷" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="530" sby="846" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="467" it="0" lt="460" ct="0" ts="1511863866234" s="true" lb="缺陷列表_更多操作_导入缺陷页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="44420" sby="290" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含准备缺陷、上传数据文件、下一步</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="501" it="0" lt="501" ct="7" ts="1511863866704" s="true" lb="缺陷列表_视图_新建个人视图" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="566" sby="864" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1341" it="0" lt="1341" ct="0" ts="1511863867207" s="true" lb="缺陷列表_视图_新建系统视图" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="566" sby="876" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="509" it="0" lt="496" ct="0" ts="1511863868551" s="true" lb="缺陷列表_视图_配置系统视图页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="82715" sby="310" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含默认视图、启用视图、创建缺陷系统视图</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1040" it="0" lt="561" ct="4" ts="1511863869061" s="true" lb="缺陷列表_视图_删除系统视图" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="82125" sby="673" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="561" it="0" lt="561" ct="4" ts="1511863869061" s="true" lb="http://tiger.oa.com/10093561/userviews/delete_workspace_view/1010093561000321535?location=/bugtrace/bugreports/my_view" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="571" sby="361" ng="1" na="1"/>
+  <httpSample t="478" it="0" lt="466" ct="0" ts="1511863869623" s="true" lb="http://tiger.oa.com/10093561/userviews/workspace_view_list/p_bug_view" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="81554" sby="312" ng="1" na="1"/>
+</httpSample>
+<httpSample t="507" it="0" lt="491" ct="0" ts="1511863870103" s="true" lb="缺陷列表_视图_配置个人视图页面" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="102463" sby="306" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>包含默认视图、启用视图、自动记忆上次查看的视图</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1862" it="0" lt="598" ct="0" ts="1511863870615" s="true" lb="缺陷列表_视图_删除个人视图" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="343913" sby="1003" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="598" it="0" lt="598" ct="0" ts="1511863870615" s="true" lb="http://tiger.oa.com/10093561/userviews/delete/1010093561000321533?location=/bugtrace/bugreports/my_view" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="639" sby="346" ng="1" na="1"/>
+  <httpSample t="402" it="0" lt="402" ct="5" ts="1511863871214" s="true" lb="http://tiger.oa.com/10093561" rc="302" rm="Moved Temporarily" tn="缺陷模块 5-1" dt="text" by="459" sby="271" ng="1" na="1"/>
+  <httpSample t="860" it="0" lt="818" ct="0" ts="1511863871617" s="true" lb="http://tiger.oa.com/bita2x/prong/stories/stories_list" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="342815" sby="386" ng="1" na="1"/>
+</httpSample>
+<httpSample t="969" it="0" lt="965" ct="0" ts="1511863872486" s="true" lb="缺陷列表_批量操作_批量移动弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="23258" sby="344" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1004" it="0" lt="1000" ct="6" ts="1511863873457" s="true" lb="缺陷列表_批量操作_批量复制弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="29898" sby="367" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="465" it="0" lt="457" ct="0" ts="1511863874463" s="true" lb="缺陷列表_批量操作_批量编辑弹框" rc="200" rm="OK" tn="缺陷模块 5-1" dt="text" by="42359" sby="309" ng="1" na="1">
+  <assertionResult>
+    <name>不报错</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+</testResults>
