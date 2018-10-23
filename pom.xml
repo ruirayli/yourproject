@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.jenkins-ci.plugins</groupId>
+		<artifactId>plugin</artifactId>
+		<version>2.36</version>
+		<relativePath />
+	</parent>
+	<groupId>com.tencent.tapd.${tapd.plugin.env}</groupId>
+	<artifactId>TapdPipeLine</artifactId>
+	<version>${tapd.plugin.version}</version>
+	<packaging>hpi</packaging>
+
+	<properties>
+		<jenkins.version>2.17</jenkins.version>
+		<java.level>8</java.level>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.test.skip>true</maven.test.skip>
+		<tapd.plugin.env>${tapd.plugin.env}</tapd.plugin.env>
+	</properties>
+
+	<name>TAPD Plugin</name>
+	<description>TAPD流水线</description>
+	<url>https://www.tapd.cn/help/view#1120003271001001384</url>
+	<!-- The default licence for Jenkins OSS Plugins is MIT. Substitute for 
+		the applicable one if needed. -->
+	<licenses>
+		<license>
+			<name>MIT License</name>
+			<url>http://opensource.org/licenses/MIT</url>
+		</license>
+	</licenses>
+
+
+	<dependencies>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-jdk14</artifactId>
+			<version>1.7.25</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.6.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jenkins-ci.plugins</groupId>
+			<artifactId>matrix-auth</artifactId>
+			<version>1.0.2</version>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.jenkins-ci.plugins</groupId>
+			<artifactId>sonar</artifactId>
+			<version>2.5</version>
+			<optional>true</optional>
+		</dependency>
+		<!--低版本会报错 -->
+		<dependency>
+			<groupId>com.google.code.findbugs</groupId>
+			<artifactId>annotations</artifactId>
+			<version>3.0.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.sonatype.nexus.ci</groupId>
+			<artifactId>nexus-jenkins-plugin</artifactId>
+			<version>3.0.20180214-134325.e135900</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jenkins-ci.plugins</groupId>
+			<artifactId>ansible</artifactId>
+			<version>1.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jenkins-ci.plugins</groupId>
+			<artifactId>credentials</artifactId>
+			<version>2.1.16</version>
+		</dependency>
+		
+		
+      
+		
+		<dependency>
+			<groupId>org.codehaus.groovy</groupId>
+			<artifactId>groovy-all</artifactId>
+			<version>2.4.12</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jenkins-ci</groupId>
+			<artifactId>symbol-annotation</artifactId>
+			<version>1.7</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jenkins-ci</groupId>
+			<artifactId>annotation-indexer</artifactId>
+			<version>1.12</version>
+		</dependency>
+
+		<!--ansible 和 nexus 依赖版本不同，这里统一为1.4 -->
+		<dependency>
+			<groupId>org.jenkins-ci.plugins</groupId>
+			<artifactId>plain-credentials</artifactId>
+			<version>1.4</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.sonarsource.sonarqube</groupId>
+			<artifactId>sonar-ws</artifactId>
+			<version>5.6</version>
+		</dependency>
+
+	</dependencies>
+
+	<!-- If you want this to appear on the wiki page:http://system.elephants.oa.com/terrysxu/lagou.git 
+		<developers> <developer> <id>bhacker</id> <name>Bob Q. Hacker</name> <email>bhacker@nowhere.net</email> 
+		</developer> </developers> -->
+
+	<!-- Assuming you want to host on @jenkinsci: <scm> <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection> 
+		<developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection> 
+		<url>https://github.com/jenkinsci/${project.artifactId}-plugin</url> </scm> -->
+	<repositories>
+		<repository>
+			<id>repo.jenkins-ci.org</id>
+			<url>https://repo.jenkins-ci.org/public/</url>
+		</repository>
+	</repositories>
+	<pluginRepositories>
+		<pluginRepository>
+			<id>repo.jenkins-ci.org</id>
+			<url>https://repo.jenkins-ci.org/public/</url>
+		</pluginRepository>
+	</pluginRepositories>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>properties-maven-plugin</artifactId>
+				<version>1.0-alpha-2</version>
+				<executions>
+					<execution>
+						<phase>generate-resources</phase>
+						<goals>
+							<goal>write-project-properties</goal>
+						</goals>
+						<configuration>
+							<outputFile>${project.basedir}/src/main/resources/tapd_pipeline_env.properties</outputFile>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>findbugs-maven-plugin</artifactId>
+				<version>3.0.4</version>
+				<configuration>
+					<threshold>High</threshold>
+					<failOnError>true</failOnError>
+					<xmlOutput>true</xmlOutput>
+					<effort>Max</effort>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.sonarsource.scanner.maven</groupId>
+				<artifactId>sonar-maven-plugin</artifactId>
+				<version>3.2</version>
+			</plugin>		
+		</plugins>
+	</build>
+	<distributionManagement>
+		<repository>
+			<id>oa_thirdparty_releases</id>
+			<url>http://maven.oa.com/nexus/content/repositories/thirdparty/</url>
+		</repository>
+		<snapshotRepository>
+			<id>oa_thirdparty_snapshots</id>
+			<url>http://maven.oa.com/nexus/content/repositories/thirdparty-snapshots/</url>
+		</snapshotRepository>
+	</distributionManagement>
+</project>
